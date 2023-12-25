@@ -8,6 +8,7 @@
   <img alt="Electron" src="https://img.shields.io/badge/Electron-2e7e94?style=flat-square&logo=electron&logoColor=white" />
   <img alt="Expo" src="https://img.shields.io/badge/Expo-276c7f?style=flat-square&logo=expo&logoColor=white" />
   <img alt="React Native" src="https://img.shields.io/badge/React_Native-1d5767.svg?style=flat-square&logo=react&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-014E63?style=flat-square&logo=python&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -22,5 +23,4 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-014E63?style=flat-square&logo=python&logoColor=white" />
 </p>
