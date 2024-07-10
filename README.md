@@ -98,18 +98,18 @@
         <div>
           <img
             alt="Webpack"
-            src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white"
+            src="https://img.shields.io/badge/-Webpack-f05032?style=flat-square&logo=webpack&logoColor=white"
           />
           <img
             alt="Docker"
-            src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"
+            src="https://img.shields.io/badge/-Docker-d23f23?style=flat-square&logo=docker&logoColor=white"
           />
           <img
             alt="Prettier"
-            src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white"
+            src="https://img.shields.io/badge/-Prettier-b5442f?style=flat-square&logo=prettier&logoColor=white"
           />
-          <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-          <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+          <img alt="Git" src="https://img.shields.io/badge/-Git-a5301a?style=flat-square&logo=git&logoColor=white" />
+          <img alt="NPM" src="https://img.shields.io/badge/-NPM-985346?style=flat-square&logo=npm&logoColor=white" />
         </div>
       </div>
     </div>
