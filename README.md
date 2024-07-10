@@ -43,14 +43,14 @@
           />
           <img alt="MUI" src="https://img.shields.io/badge/-MUI-3e78b2?style=flat-square&logo=mui&logoColor=white" />
           <img alt="Redux" src="https://img.shields.io/badge/-Redux-2e71b5?style=flat-square&logo=redux&logoColor=white" />
-          <img alt="MobX" src="https://img.shields.io/badge/-MobX-29639f?style=flat-square&logo=mobx&logoColor=black" />
+          <img alt="MobX" src="https://img.shields.io/badge/-MobX-29639f?style=flat-square&logo=mobx&logoColor=white" />
           <img
             alt="GraphQL"
             src="https://img.shields.io/badge/-GraphQL-155aa0?style=flat-square&logo=graphql&logoColor=white"
           />
           <img
             alt="Socket.IO"
-            src="https://img.shields.io/badge/-Socket.IO-134f8c?style=flat-square&logo=socket.io&logoColor=black"
+            src="https://img.shields.io/badge/-Socket.IO-134f8c?style=flat-square&logo=socket.io&logoColor=white"
           />
         </div>
       </div>
