@@ -72,10 +72,6 @@
         <h3>Backend development</h3>
         <div>
           <img
-            alt="Node.JS"
-            src="https://img.shields.io/badge/-Node.JS-36ea81?style=flat-square&logo=Node.js&logoColor=white"
-          />
-          <img
             alt="Nest.JS"
             src="https://img.shields.io/badge/-Nest.JS-2acb6d?style=flat-square&logo=nestjs&logoColor=white"
           />
@@ -88,8 +84,12 @@
             src="https://img.shields.io/badge/-PostgreSQL-239c55?style=flat-square&logo=postgresql&logoColor=white"
           />
           <img
+            alt="Node.JS"
+            src="https://img.shields.io/badge/-Node.JS-178745?style=flat-square&logo=Node.js&logoColor=white"
+          />
+          <img
             alt="Socket.IO"
-            src="https://img.shields.io/badge/-Socket.IO-1f8a4c?style=flat-square&logo=socket.io&logoColor=black"
+            src="https://img.shields.io/badge/-Socket.IO-277447?style=flat-square&logo=socket.io&logoColor=black"
           />
         </div>
       </div>
