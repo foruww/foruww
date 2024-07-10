@@ -89,7 +89,7 @@
           />
           <img
             alt="Socket.IO"
-            src="https://img.shields.io/badge/-Socket.IO-277447?style=flat-square&logo=socket.io&logoColor=black"
+            src="https://img.shields.io/badge/-Socket.IO-277447?style=flat-square&logo=socket.io&logoColor=white"
           />
         </div>
       </div>
