@@ -25,7 +25,7 @@
           />
           <img alt="Python" src="https://img.shields.io/badge/Python-3a90a8?style=flat-square&logo=python&logoColor=white" />
           <img alt="CSS" src="https://img.shields.io/badge/-CSS-317d92?style=flat-square&logo=css3&logoColor=white" />
-          <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-286b7d?style=flat-square&logo=html5&logoColor=white" />
+          <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-265b6a?style=flat-square&logo=html5&logoColor=white" />
         </div>
       </div>
       <div>
