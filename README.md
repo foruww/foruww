@@ -13,19 +13,19 @@
         <div>
           <img
             alt="TypeScript"
-            src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"
+            src="https://img.shields.io/badge/-TypeScript-45b8d8?style=flat-square&logo=typescript&logoColor=white"
           />
           <img
             alt="JavaScript"
-            src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"
+            src="https://img.shields.io/badge/-JavaScript-43abc8?style=flat-square&logo=javascript&logoColor=black"
           />
           <img
             alt="Java"
-            src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=coffeescript&logoColor=white"
+            src="https://img.shields.io/badge/-Java-40a1bc?style=flat-square&logo=coffeescript&logoColor=white"
           />
-          <img alt="Python" src="https://img.shields.io/badge/Python-014E63?style=flat-square&logo=python&logoColor=white" />
-          <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
-          <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img alt="Python" src="https://img.shields.io/badge/Python-3a90a8?style=flat-square&logo=python&logoColor=white" />
+          <img alt="CSS" src="https://img.shields.io/badge/-CSS-317d92?style=flat-square&logo=css3&logoColor=white" />
+          <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-286b7d?style=flat-square&logo=html5&logoColor=white" />
         </div>
       </div>
       <div>
