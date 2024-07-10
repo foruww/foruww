@@ -31,26 +31,26 @@
       <div>
         <h3>Frontend development</h3>
         <div>
-          <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+          <img alt="React" src="https://img.shields.io/badge/-React-69b2fd?style=flat-square&logo=react&logoColor=white" />
           <img
             alt="Next.JS"
-            src="https://img.shields.io/badge/Next.js-45d0d0?style=flat-square&logo=nextdotjs&logoColor=white"
+            src="https://img.shields.io/badge/Next.js-63a4e7?style=flat-square&logo=nextdotjs&logoColor=white"
           />
-          <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
+          <img alt="Sass" src="https://img.shields.io/badge/-Sass-5b94cf?style=flat-square&logo=sass&logoColor=white" />
           <img
             alt="Styled Components"
-            src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white"
+            src="https://img.shields.io/badge/-Styled_Components-4888ca?style=flat-square&logo=styled-components&logoColor=white"
           />
-          <img alt="MUI" src="https://img.shields.io/badge/-MUI-b75f8b?style=flat-square&logo=mui&logoColor=white" />
-          <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-          <img alt="MobX" src="https://img.shields.io/badge/-MobX-F7DF1E?style=flat-square&logo=mobx&logoColor=black" />
+          <img alt="MUI" src="https://img.shields.io/badge/-MUI-3e78b2?style=flat-square&logo=mui&logoColor=white" />
+          <img alt="Redux" src="https://img.shields.io/badge/-Redux-2e71b5?style=flat-square&logo=redux&logoColor=white" />
+          <img alt="MobX" src="https://img.shields.io/badge/-MobX-29639f?style=flat-square&logo=mobx&logoColor=black" />
           <img
             alt="GraphQL"
-            src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"
+            src="https://img.shields.io/badge/-GraphQL-155aa0?style=flat-square&logo=graphql&logoColor=white"
           />
           <img
             alt="Socket.IO"
-            src="https://img.shields.io/badge/-Socket.IO-F7DF1E?style=flat-square&logo=socket.io&logoColor=black"
+            src="https://img.shields.io/badge/-Socket.IO-134f8c?style=flat-square&logo=socket.io&logoColor=black"
           />
         </div>
       </div>
