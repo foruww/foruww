@@ -109,7 +109,7 @@
             src="https://img.shields.io/badge/-Prettier-b5442f?style=flat-square&logo=prettier&logoColor=white"
           />
           <img alt="Git" src="https://img.shields.io/badge/-Git-a5301a?style=flat-square&logo=git&logoColor=white" />
-          <img alt="NPM" src="https://img.shields.io/badge/-NPM-985346?style=flat-square&logo=npm&logoColor=white" />
+          <img alt="NPM" src="https://img.shields.io/badge/-NPM-752414?style=flat-square&logo=npm&logoColor=white" />
         </div>
       </div>
     </div>
