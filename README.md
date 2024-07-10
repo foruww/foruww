@@ -17,7 +17,7 @@
           />
           <img
             alt="JavaScript"
-            src="https://img.shields.io/badge/-JavaScript-43abc8?style=flat-square&logo=javascript&logoColor=black"
+            src="https://img.shields.io/badge/-JavaScript-43abc8?style=flat-square&logo=javascript&logoColor=white"
           />
           <img
             alt="Java"
