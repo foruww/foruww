@@ -7,7 +7,7 @@
         Welcome to my page! <br />
         I'm Andrew, Fullstack developer.
       </p>
-      <h3>Things I code with</h3>
+      <h2>Things I code with</h2>
       <div>
         <h3>Programming languages</h3>
         <div>
