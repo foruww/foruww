@@ -112,4 +112,13 @@
       <img alt="NPM" src="https://img.shields.io/badge/-NPM-601b0f?style=flat-square&logo=npm&logoColor=white" />
     </div>
   </div>
+  <div>
+    <h3>Other skills</h3>
+    <div>
+      <img
+        alt="Discord Game SDK"
+        src="https://img.shields.io/badge/Discord_Game_SDK-4b5969?style=flat-square&logo=discord&logoColor=white"
+      />
+    </div>
+  </div>
 </div>
