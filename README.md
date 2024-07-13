@@ -116,8 +116,8 @@
     <h3>Other skills</h3>
     <div>
       <img
-        alt="Discord Game SDK"
-        src="https://img.shields.io/badge/Discord_Game_SDK-4b5969?style=flat-square&logo=discord&logoColor=white"
+        alt="Discord Embedded SDK"
+        src="https://img.shields.io/badge/Discord_Embedded_SDK-4b5969?style=flat-square&logo=discord&logoColor=white"
       />
     </div>
   </div>
