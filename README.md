@@ -94,25 +94,6 @@
     </div>
   </div>
   <div>
-    <h3>Tools</h3>
-    <div>
-      <img
-        alt="Webpack"
-        src="https://img.shields.io/badge/-Webpack-c0462b?style=flat-square&logo=webpack&logoColor=white"
-      />
-      <img
-        alt="Docker"
-        src="https://img.shields.io/badge/-Docker-a8361c?style=flat-square&logo=docker&logoColor=white"
-      />
-      <img
-        alt="Prettier"
-        src="https://img.shields.io/badge/-Prettier-973927?style=flat-square&logo=prettier&logoColor=white"
-      />
-      <img alt="Git" src="https://img.shields.io/badge/-Git-882715?style=flat-square&logo=git&logoColor=white" />
-      <img alt="NPM" src="https://img.shields.io/badge/-NPM-601b0f?style=flat-square&logo=npm&logoColor=white" />
-    </div>
-  </div>
-  <div>
     <h3>Other skills</h3>
     <div>
       <img
