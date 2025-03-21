@@ -16,6 +16,6 @@
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,go,css,discord,docker,postgres,redis,mongodb,react,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,nextjs,nodejs,postman,py,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,go,css,discord,docker,postgres,redis,mongodb,react,express,figma,firebase,redis,github,html,java,js,linux,materialui,nginx,nextjs,nodejs,postman,py,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
