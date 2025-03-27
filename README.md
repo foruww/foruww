@@ -6,7 +6,7 @@
 <!-- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" alt="Github Stats">
 <br />
 <br /> -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foruww&layout=compact&theme=dark&bg_color=0A0A0A" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anreszii&layout=compact&theme=dark&bg_color=0A0A0A" alt="Top Languages"/>
 <br />
 </p>        
 <div id="user-content-toc">
